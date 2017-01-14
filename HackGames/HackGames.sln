@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackGames.CSharp", "HackGames.CSharp.csproj", "{A9E8D546-5E20-AB7A-3349-8E08767E83A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackGames.CSharp.Editor", "HackGames.CSharp.Editor.csproj", "{23B10CA0-8087-58A5-34F7-24BFBFC5ED59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9E8D546-5E20-AB7A-3349-8E08767E83A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E8D546-5E20-AB7A-3349-8E08767E83A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E8D546-5E20-AB7A-3349-8E08767E83A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E8D546-5E20-AB7A-3349-8E08767E83A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23B10CA0-8087-58A5-34F7-24BFBFC5ED59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B10CA0-8087-58A5-34F7-24BFBFC5ED59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B10CA0-8087-58A5-34F7-24BFBFC5ED59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B10CA0-8087-58A5-34F7-24BFBFC5ED59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
